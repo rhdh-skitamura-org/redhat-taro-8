@@ -1,0 +1,11 @@
+site_name: redhat-taro-8
+site_description: 
+repo_url: https://github.com/rhdh-skitamura-org/redhat-taro-8-app
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# Note for content editors, edit only the section below
+nav:
+  - redhat-taro-8 Documentation: index.md
